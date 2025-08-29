@@ -23,3 +23,18 @@ This is a simple **space shooter game built using Python and Pygame**, generated
 ```bash
 git clone https://github.com/yourusername/space-shooter-copilot.git
 cd space-shooter-copilot
+```
+
+### 2. Install Dependencies
+
+Make sure you have Python 3.7+ installed.
+
+```bash
+pip install pygame python-dotenv
+```
+
+### 3. Run the Game
+
+```bash
+python pygame_spaceshooter.py
+```
